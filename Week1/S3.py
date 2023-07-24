@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 #Write a python script to enter any number, if it is integer number, then check its palindrom or not. Print appropriate message if it is not palindrom.
 #22BCA29 
 n=int(input("Enter number:"))
@@ -17,4 +11,3 @@ if(t==r):
     print("the number is a palindrome")
 else:
     print("the number isn't a palindrome")
-
